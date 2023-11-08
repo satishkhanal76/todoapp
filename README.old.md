@@ -1,0 +1,4 @@
+- TODO
+  - name : String
+  - dueDate : Date
+  - isCompleted : boolean
