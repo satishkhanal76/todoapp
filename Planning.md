@@ -1,4 +1,4 @@
-- TODO
+- Todo
   - name : String
   - dueDate : Date
   - isCompleted : boolean
